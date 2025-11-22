@@ -1,6 +1,6 @@
 # networking_calculators
 
-                                              ^^ Includes calculators for all formulas included in Networking. ^^
+                        ^^ Includes calculators for all formulas included in Networking. ^^
 
                                                         Calculators I have so far:
                                                           - Full Mesh Calculator
